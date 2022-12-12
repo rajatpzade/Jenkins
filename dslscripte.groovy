@@ -2,7 +2,7 @@ pipelineJob('scripted') {
 
   description('')
 
-  displayName('scripted-2')
+  displayName('scripted')
 
   keepDependencies(false)
 
