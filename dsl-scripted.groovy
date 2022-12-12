@@ -1,4 +1,4 @@
-pipelineJob('scripted-2') {
+pipelineJob('scripted') {
 
   description('')
 
