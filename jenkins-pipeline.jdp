@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('pull') { 
             steps {
-                  
+                  https://github.com/rajatpzade/rajatpzade.git
             }
         }
         stage('build') { 
